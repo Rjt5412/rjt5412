@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -  📫 Reachable at **rajat.malviya5412@gmail.com** and [LinkedIn](linkedin.com/in/rjt5412)
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,go,bash,tensorflow,pytorch,sklearn,postgres,docker,aws,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,go,bash,fastapi,tensorflow,pytorch,sklearn,postgres,docker,aws,linux)](https://skillicons.dev)
 
 
 
