@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### About Me
 - 💛 Passionate about backend engineering and data-driven systems.
-- 🛠️ Trying to master Go these days — here’s what I’ve built with it so far: [PokedexCLI](https://github.com/Rjt5412/pokedexcli.git)
+- 🛠️ Trying to master `Go` these days — here’s what I’ve built with it so far: [PokedexCLI](https://github.com/Rjt5412/pokedexcli.git)
 -  Always open to 🤝 collaborating across the stack — from `Python` and `Go` to `Bash` and `SQL`. Whether it’s data pipelines, backend services, or ML workflows, I’m up for tackling 🪖 real-world problems, regardless of the tech.
 -  📫 Reachable at **rajat.malviya5412@gmail.com** and [LinkedIn](linkedin.com/in/rjt5412)
 
